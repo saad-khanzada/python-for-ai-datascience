@@ -14,7 +14,7 @@ The notebooks are organized into logically grouped folders to promote clarity, p
 ┣ 📂 1_Programming_Fundamentals
 ┃ ┣ 📜 1a_Data_types.ipynb
 ┃ ┣ 📜 1b_Expressions.ipynb
-┃ ┗ 📜 1c_\string.ipynb
+┃ ┗ 📜 1c_string.ipynb
 ┣ 📂 2_Data_Structure
 ┃ ┣ 📜 2a_Lists.ipynb
 ┃ ┣ 📜 2b_Set.ipynb
