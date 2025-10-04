@@ -27,7 +27,7 @@ The notebooks are organized into logically grouped folders to promote clarity, p
 ┃ ┣ 📜 3d_Variables_scope.ipynb
 ┃ ┗ 📜 3e_Exception_handling.ipynb
 ┣ 📂 4_Functional_and_OOP
-┃ ┣ 📜 4a_Higher_order_function.ipynb
+┃ ┣ 📜 4a_Higher_Order_Functions_and_Lambdas.ipynb
 ┃ ┣ 📜 4b_Decorators.ipynb
 ┃ ┣ 📜 4c_Object_and_classes.ipynb
 ┃ ┗ 📜 4d_Methods_and_types.ipynb
