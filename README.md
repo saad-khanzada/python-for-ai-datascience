@@ -52,6 +52,8 @@ The notebooks are organized into logically grouped folders to promote clarity, p
 ┃ ┗ 📜 7f_HTTP_methods.ipynb
 ┣ 📂 8_Final_Project
 ┃ ┗ 📜 8a_Python_project.ipynb
+┃
+┗ 📜LICENSE
 ┗ 📜 README.md
 ```
 
