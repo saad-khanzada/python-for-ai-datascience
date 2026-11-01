@@ -177,7 +177,9 @@ Please make sure your contributions follow the notebook structure and maintain b
 ## 💬 Feedback & Support
 
 Have suggestions or want to collaborate?  
-Feel free to open an issue or connect with me directly via:
+ 💬 Stuck on a notebook? Ask in [Discussions](https://github.com/saad-khanzada/python-for-ai-datascience/discussions).
+
+or connect with me directly via:
 
 - 📧 Email: saadkabeer.ai@gmail.com
 - 📬 🔗 [LinkedIn](https://www.linkedin.com/in/saad-kabeer-ai/)
