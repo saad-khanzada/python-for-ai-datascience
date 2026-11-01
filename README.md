@@ -180,9 +180,9 @@ Have suggestions or want to collaborate?
 Feel free to open an issue or connect with me directly via:
 
 - 📧 Email: saadkabeer.ai@gmail.com
-- 📬 LinkedIn: [linkedin.com/in/saad-kabeer-ai](https://www.linkedin.com/in/saad-kabeer-ai/)
-- website: (https://www.saadkabeer)
----
+- 📬 🔗 [LinkedIn](https://www.linkedin.com/in/saad-kabeer-ai/)
+- 🔗 [website](https://www.saadkabeer.online/)
+
 
 ## 🌍 Let's Connect
 
