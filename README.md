@@ -179,9 +179,9 @@ Please make sure your contributions follow the notebook structure and maintain b
 Have suggestions or want to collaborate?  
 Feel free to open an issue or connect with me directly via:
 
-- 📧 Email: saadkhanzada54@gmail.com
+- 📧 Email: saadkabeer.ai@gmail.com
 - 📬 LinkedIn: [linkedin.com/in/saad-kabeer-ai](https://www.linkedin.com/in/saad-kabeer-ai/)
-
+- website: (https://www.saadkabeer)
 ---
 
 ## 🌍 Let's Connect
